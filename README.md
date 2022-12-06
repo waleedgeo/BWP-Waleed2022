@@ -1,3 +1,3 @@
-## Exploring and Predicting Thermal Field Variance in Response to Urban Growth: A Geo-information Modelling-based Spatial-temporal Assessment in the Context of Sustainable and Livable Cities
+## Towards Sustainable and Livable Cities: Leveraging Remote Sensing, Machine Learning and Geo-information Modelling to Explore and Predict Thermal Field Variance in Response to Urban Growth
 
-- **Work in progress...**
+- **Upload in progress...**
