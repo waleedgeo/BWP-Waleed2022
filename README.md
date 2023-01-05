@@ -20,7 +20,7 @@ THe paper is currently under review in [Sustainability Journal of MDPI](https://
 [LinkedIn]: https://www.linkedin.com/in/mirzawaleed197
 [ResearchGate]: https://www.researchgate.net/profile/Mirza-Waleed
 [orcid]: https://orcid.org/0000-0003-0006-2490
-[mail]: mailto:mirzawaleed197@gmail.com
+[mail]: mailto:waleedgeo@outlook.com
 
 [waleed2021]: https://drive.google.com/file/d/15S7TzBYdyYUBULQ9UUQ6ngeI-G6fhRTx/view?usp=sharing
 
