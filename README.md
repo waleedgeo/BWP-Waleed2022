@@ -18,8 +18,9 @@ Waleed, M.; Sajjad, M.; Acheampong, A.O.; Alam, M.T. Towards Sustainable and Liv
 ### [Please click here to see the paper Waleed et al., (2023)](https://www.mdpi.com/2071-1050/15/2/1416)
 
 
-# 1. GEE App
-## 2. GEE app for visualizing LULC and UTFVI (1990-2050)
+# 1. GEE Applications
+## (a) GEE app for visualizing LULC and UTFVI (1990-2050)
+
 This is the main app for our project, which shows following rasers as layers, thus providing overlay comparison to see emerging trends over the years. Layers include:
 - UTFVI 2050 (Hexagon, aggregated at 100m)
 - UTFVI 2050 (Hexagon, aggregated at 250m)
@@ -37,15 +38,18 @@ This is the main app for our project, which shows following rasers as layers, th
 ### **[Click here to see the Main app for Waleed et al., (2023)](https://waleedgis.users.earthengine.app/view/bwp-lulc-utfvi)**
 
 UTFVI Predicted 2050 Hexagons at 250m 
+
 [![GEE](https://imgur.com/ThlrNW8.png)](https://waleedgis.users.earthengine.app/view/bwp-lulc-utfvi)
 
 LULC Change from 1990 to 2020
+
 [![GEE](https://imgur.com/trDDU4m.png)](https://waleedgis.users.earthengine.app/view/bwp-lulc-utfvi)
 
 Overlay of Predicted UTFVI for 2050 over city map
+
 [![GEE](https://imgur.com/IjxOTnc.png)](https://waleedgis.users.earthengine.app/view/bwp-lulc-utfvi)
 
-## 2. GEE app for LULC comparison as 4 Split Maps
+## (b) GEE app for LULC comparison as 4 Split Maps
 
 ### **[Click here to see the LULC comparison app](https://waleedgis.users.earthengine.app/view/bwp-split-map)**
 
