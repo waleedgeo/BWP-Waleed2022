@@ -53,7 +53,7 @@ Overlay of Predicted UTFVI for 2050 over city map
 
 ### **[Click here to see the LULC comparison app](https://waleedgis.users.earthengine.app/view/bwp-split-map)**
 
-[![GEE](https://imgur.com/oJVOMEe.png)](https://waleedgis.users.earthengine.app/view/bwp-split-map)
+[![GEE](https://imgur.com/mKC63jR.png)](https://waleedgis.users.earthengine.app/view/bwp-split-map)
 
 ### NOTE
 This repository is under progress, and authors will add materials time to time. Meanwhile you can contact them for datasets, methods/models, and collaboration.
