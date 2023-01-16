@@ -41,6 +41,10 @@ UTFVI Predicted 2050 Hexagons at 250m
 
 [![GEE](https://imgur.com/ThlrNW8.png)](https://waleedgis.users.earthengine.app/view/bwp-lulc-utfvi)
 
+Demo of the Main App
+
+[![GEE vid](https://imgur.com/4kTLCOK.gif)](https://waleedgis.users.earthengine.app/view/bwp-lulc-utfvi)
+
 LULC Change from 1990 to 2020
 
 [![GEE](https://imgur.com/trDDU4m.png)](https://waleedgis.users.earthengine.app/view/bwp-lulc-utfvi)
